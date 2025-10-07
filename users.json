@@ -1,14 +1,4 @@
 {
-  "users": [
-    {
-      "username": "IKISTORE",
-      "password": "PROJECTv1",
-      "expiry": "2025-12-30"
-    },
-    {
-      "username": "TESTUSER",
-      "password": "12345",
-      "expiry": "2025-11-15"
-    }
-  ]
+  "IKISTORE": {"password":"PROJECTv1","expire":"2025-12-31"},
+  "TESTUSER": {"password":"abc123","expire":"2025-10-30"}
 }

@@ -1,4 +1,14 @@
 {
-  "IKISTORE": {"password":"PROJECTv1","expire":"2025-10-30"},
-  "TESTUSER": {"password":"abc123","expire":"2025-10-30"}
+  "IKISTORE": {
+    "password": "PROJECTv1",
+    "expire": "2025-10-30"
+  },
+  "TESTUSER": {
+    "password": "abc123",
+    "expire": "2025-10-30"
+  },
+  "cabul": {
+    "password": "cabul",
+    "expire": "2025-10-08"
+  }
 }

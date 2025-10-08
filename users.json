@@ -6,5 +6,9 @@
   "TESTUSER": {
     "password": "abc123",
     "expire": "2025-10-30"
+  },
+  "tes": {
+    "password": "tes",
+    "expire": "2025-10-08"
   }
 }

@@ -2,5 +2,9 @@
   "1": {
     "password": "123",
     "expire": "2025-10-18"
+  },
+  "IKISTORE": {
+    "password": "123",
+    "expire": "2025-10-18"
   }
 }

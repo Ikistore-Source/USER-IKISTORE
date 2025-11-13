@@ -2,5 +2,9 @@
   "JAWA": {
     "password": "123",
     "expire": "2025-11-09"
+  },
+  "FUTURA": {
+    "password": "N3000",
+    "expire": "2030-11-09"
   }
 }
